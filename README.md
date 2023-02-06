@@ -41,11 +41,11 @@
 
 I have made a ML Based Twitter Sentiment Analysis. 
 
-## :dart: How To Use ##
-
 ### WordCloud:-
 ![WordCloud Negative](https://raw.githubusercontent.com/UtkarshPrajapati/Twitter-Sentiment-Analysis/master/WC_neg.png)
 ![WordCloud Positive](https://raw.githubusercontent.com/UtkarshPrajapati/Twitter-Sentiment-Analysis/master/WC_pos.png)
+
+## :dart: How To Use ##
 
 
 ### Playing the Game:-
