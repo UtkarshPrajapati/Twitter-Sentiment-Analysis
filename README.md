@@ -48,8 +48,6 @@ I have made a ML Based Twitter Sentiment Analysis.
 ## :dart: How To Use ##
 
 
-### Playing the Game:-
-https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-a13f-fb07b41ab75a.mp4
 
 
 ## :sparkles: Features ##
