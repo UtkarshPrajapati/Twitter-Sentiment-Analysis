@@ -26,7 +26,6 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#dart-How-To-Use">How To Use</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -40,6 +39,7 @@
 ## :dart: About ##
 
 I have made a ML Based Twitter Sentiment Analysis. 
+![Kaggle NoteBook](https://www.kaggle.com/utisop/twitter-sentiment-analysis/)
 
 ### WordCloud:-
 ![WordCloud Negative](https://raw.githubusercontent.com/UtkarshPrajapati/Twitter-Sentiment-Analysis/master/WC_neg.png)
