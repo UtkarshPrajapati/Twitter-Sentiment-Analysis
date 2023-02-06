@@ -39,7 +39,7 @@
 ## :dart: About ##
 
 I have made a ML Based Twitter Sentiment Analysis. 
-![Kaggle NoteBook](https://www.kaggle.com/utisop/twitter-sentiment-analysis/)
+[Kaggle NoteBook](https://www.kaggle.com/utisop/twitter-sentiment-analysis/)
 
 ### WordCloud:-
 ![WordCloud Negative](https://raw.githubusercontent.com/UtkarshPrajapati/Twitter-Sentiment-Analysis/master/WC_neg.png)
