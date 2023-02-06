@@ -45,10 +45,6 @@ I have made a ML Based Twitter Sentiment Analysis.
 ![WordCloud Negative](https://raw.githubusercontent.com/UtkarshPrajapati/Twitter-Sentiment-Analysis/master/WC_neg.png)
 ![WordCloud Positive](https://raw.githubusercontent.com/UtkarshPrajapati/Twitter-Sentiment-Analysis/master/WC_pos.png)
 
-## :dart: How To Use ##
-
-
-
 
 ## :sparkles: Features ##
 
