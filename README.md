@@ -38,7 +38,7 @@
 
 ## :dart: About ##
 
-I have made a ML Based Twitter Sentiment Analysis. 
+I have made a ML Based Twitter Sentiment Analysis. It uses Modin Pandas for better performance than the orignal Pandas by use of Multicores.
 
 [Kaggle NoteBook](https://www.kaggle.com/utisop/twitter-sentiment-analysis/)
 
