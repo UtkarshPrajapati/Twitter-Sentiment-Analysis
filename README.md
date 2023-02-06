@@ -3,42 +3,35 @@
 
   &#xa0;
 
-  <!-- <a href="https://twittersentimentanalysis.netlify.app">Demo</a> -->
+
 </div>
 
 <h1 align="center">Twitter Sentiment Analysis</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/UtkarshPrajapati/twitter-sentiment-analysis?color=56BEB8">
+  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/UtkarshPrajapati/Twitter-Sentiment-Analysis?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/UtkarshPrajapati/twitter-sentiment-analysis?color=56BEB8">
+  <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/UtkarshPrajapati/Twitter-Sentiment-Analysis?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/UtkarshPrajapati/twitter-sentiment-analysis?color=56BEB8">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/UtkarshPrajapati/Twitter-Sentiment-Analysis?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/UtkarshPrajapati/twitter-sentiment-analysis?color=56BEB8">
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/UtkarshPrajapati/Twitter-Sentiment-Analysis?color=56BEB8" /> -->
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/UtkarshPrajapati/twitter-sentiment-analysis?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/UtkarshPrajapati/Twitter-Sentiment-Analysis?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/UtkarshPrajapati/twitter-sentiment-analysis?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/UtkarshPrajapati/twitter-sentiment-analysis?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/UtkarshPrajapati/Twitter-Sentiment-Analysis?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
 
-<!-- <h4 align="center"> 
-	🚧  Twitter Sentiment Analysis 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-How-To-Use">How To Use</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#memo-Made-By">Made By</a> &#xa0; | &#xa0;
   <a href="https://github.com/UtkarshPrajapati" target="_blank">Author</a>
 </p>
 
@@ -46,50 +39,57 @@
 
 ## :dart: About ##
 
-Describe your project
+I have made a ML Based Twitter Sentiment Analysis. 
+
+## :dart: How To Use ##
+
+### Basic Interface of Window:-
+![Basic Interface of Window](https://github.com/UtkarshPrajapati/Twitter-Sentiment-Analysis/blob/07cf1f7f5c7cf9705b6a3bda8c47d21e1fbd2c65/media/Basic%20Interface.png)
+
+
+### Playing the Game:-
+https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-a13f-fb07b41ab75a.mp4
+
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Uses Open Computer Vision (OpenCV)\
+:heavy_check_mark: Tracks hands and Finger Tips Efficiently\
+:heavy_check_mark: Moves the vehicle according to hand gestures. \
+:heavy_check_mark: Can operate Hill Climb Racing game without touching the laptop.
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [OpenCV](https://opencv.org/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting, you need to have [Git](https://git-scm.com) & basic Deep Learning libraries installed.
+You should also install Hill Climb Racing by going to <a href="https://www.microsoft.com/en-us/p/hill-climb-racing/9wzdncrdcwk8?activetab=pivot:overviewtab" target="_blank">This Link</a>
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/UtkarshPrajapati/twitter-sentiment-analysis
+$ git clone https://github.com/UtkarshPrajapati/Twitter-Sentiment-Analysis.git
 
 # Access
-$ cd twitter-sentiment-analysis
+$ cd Twitter-Sentiment-Analysis
 
 # Install dependencies
-$ yarn
+$ pip install -r requirements.txt
 
 # Run the project
-$ yarn start
+$ jupyter nbconvert --to notebook --execute "Game Controller.ipynb"
 
-# The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
+## :memo: Made By ##
 
 Made with :heart: by <a href="https://github.com/UtkarshPrajapati" target="_blank">Utkarsh Prajapati</a>
 
