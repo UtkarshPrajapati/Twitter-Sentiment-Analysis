@@ -43,8 +43,8 @@ I have made a ML Based Twitter Sentiment Analysis.
 
 ## :dart: How To Use ##
 
-### Basic Interface of Window:-
-![Basic Interface of Window](https://github.com/UtkarshPrajapati/Twitter-Sentiment-Analysis/blob/07cf1f7f5c7cf9705b6a3bda8c47d21e1fbd2c65/media/Basic%20Interface.png)
+### WordCloud:-
+![WordCloud](https://github.com/UtkarshPrajapati/Twitter-Sentiment-Analysis/blob/07cf1f7f5c7cf9705b6a3bda8c47d21e1fbd2c65/media/Basic%20Interface.png)
 
 
 ### Playing the Game:-
