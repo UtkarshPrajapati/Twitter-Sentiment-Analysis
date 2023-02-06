@@ -54,10 +54,10 @@ https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Uses Open Computer Vision (OpenCV)\
-:heavy_check_mark: Tracks hands and Finger Tips Efficiently\
-:heavy_check_mark: Moves the vehicle according to hand gestures. \
-:heavy_check_mark: Can operate Hill Climb Racing game without touching the laptop.
+:heavy_check_mark: Uses Machine Learning (DL in near future)\
+:heavy_check_mark: Trained on Huge Dataset\
+:heavy_check_mark: Dataset contains 1.6M tweets \
+:heavy_check_mark: Classifies the Tweets on the basis whether they are positive or negative sentences.
 
 ## :rocket: Technologies ##
 
@@ -71,7 +71,6 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements ##
 
 Before starting, you need to have [Git](https://git-scm.com) & basic Deep Learning libraries installed.
-You should also install Hill Climb Racing by going to <a href="https://www.microsoft.com/en-us/p/hill-climb-racing/9wzdncrdcwk8?activetab=pivot:overviewtab" target="_blank">This Link</a>
 
 ## :checkered_flag: Starting ##
 
@@ -86,7 +85,7 @@ $ cd Twitter-Sentiment-Analysis
 $ pip install -r requirements.txt
 
 # Run the project
-$ jupyter nbconvert --to notebook --execute "Game Controller.ipynb"
+$ jupyter nbconvert --to notebook --execute "analysis.ipynb"
 
 ```
 
