@@ -59,10 +59,12 @@ I have made a ML Based Twitter Sentiment Analysis.
 The following tools were used in this project:
 
 - [Numpy](https://numpy.org/)
-- [Pandas](https://pandas.pydata.org/)
+- [Modin Pandas](https://modin.org/)
 - [Matplotlib](https://matplotlib.org/)
-- [OpenCV](https://opencv.org/)
-
+- [Seaborn](https://seaborn.pydata.org/)
+- [NLTK](https://www.nltk.org/)
+- [SciKit Learn](https://scikit-learn.org/)
+- [WordCloud](http://amueller.github.io/word_cloud/)
 ## :white_check_mark: Requirements ##
 
 Before starting, you need to have [Git](https://git-scm.com) & basic Deep Learning libraries installed.
